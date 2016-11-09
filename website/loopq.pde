@@ -5,7 +5,6 @@ float t;
 void setup() {
   background(20);
   size(500, 500);
-  beginRecord(PDF, "everything.pdf");
 }  
   
 void draw() {
