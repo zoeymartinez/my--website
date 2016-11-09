@@ -35,6 +35,4 @@ float x2(float t) {
 
 float y2(float t) {
   return -cos(t / 20) * 200 + cos(t / 12) * 20;
-}  
-
-}
+} 
